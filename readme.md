@@ -7,7 +7,7 @@ Welcome to my MLSA journey documentation repository! This project aims to share 
 - [About Me](#about-me)
 - [Goals](#goals)
 - [Resources](#resources)
-- [Projects](#projects)
+- [Events](#Events)
 - [Insights](#insights)
 - [Contact](#contact)
 
@@ -27,15 +27,16 @@ I am a passionate student in the Faculty of Artificial Intelligence at Kafr El-S
 
 This section will include links to valuable resources such as:
 
-- [Microsoft Learn](https://learn.microsoft.com/)
-- [MLSA Program](https://studentambassadors.microsoft.com/)
-- Books, courses, and tutorials that have helped me.
+- [Microsoft Learn](https://learn.microsoft.com/?wt.mc_id=studentamb_352316)
+- [MLSA Program](https://studentambassadors.microsoft.com/?wt.mc_id=studentamb_352316)
+- [My Youtube Channal And My Events](https://www.youtube.com/@mo7amed3twan).
 
-## Projects
+## Events
 
-Here, you can document your projects related to Microsoft technologies. Include:
+**Here, you can document your projects related to Microsoft technologies. Include:**
 
 - Project Title: Description, technologies used, and links to the project repository or demo.
+
 - Future project ideas and goals.
 
 ## Insights
@@ -50,10 +51,11 @@ Share your thoughts on various topics, such as:
 
 Feel free to reach out for collaboration, questions, or discussions:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- Email: Mohamed.Atwan@studentambassadors.com
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Mo7amed3twan)
 
 ---
 
-Thank you for visiting my repository! Together, we can inspire and influence the tech community through knowledge and collaboration.
+Thank you for visiting my repository! 
+Together, we can inspire and influence the tech community through knowledge and collaboration.
